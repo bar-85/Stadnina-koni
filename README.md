@@ -1,4 +1,4 @@
-# STADNINA KONI
+<h1 align="center"> STADNINA KONI </h1>
 
 >Responsywna strona internetowa stadniny koni.
 

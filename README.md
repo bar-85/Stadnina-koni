@@ -16,4 +16,7 @@
 
 
 ![konie2 jpg](https://user-images.githubusercontent.com/105555319/168483695-d6b207aa-e903-4da9-a282-c2344c651668.png)
-![kon1 jpg](https://user-images.githubusercontent.com/105555319/168483703-2f8fdfe5-6db7-46ac-98bc-f14f179c5d5e.png)
+![Screenshot_9](https://user-images.githubusercontent.com/105555319/187291121-718ceecf-8e94-4c48-80a4-b21b34be2bfb.png)
+![Screenshot_10](https://user-images.githubusercontent.com/105555319/187291141-99685f71-a6da-4c81-87b4-fd4fa8f0e746.png)
+![Screenshot_8](https://user-images.githubusercontent.com/105555319/187291157-0e70a002-8816-40a5-85d3-67b9fab135d1.png)
+

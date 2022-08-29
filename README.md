@@ -3,7 +3,7 @@
 >Responsywna strona internetowa stadniny koni.
 
 
->Stronę można zobaczyć pod adresem: https://bar-85.github.io/stadnina-koni/
+>Stronę można zobaczyć pod adresem: https://podkowa-stadnina.netlify.app/
 
 
 
